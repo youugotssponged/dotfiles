@@ -1,0 +1,19 @@
+{
+    "name": "<name>",
+    "version": "0.0.1",
+    "description": "<description>",
+    "keywords": [],
+    "homepage": "<url>",
+    "license": "MIT",
+    "author": {
+        "name": "J McCann @youugotssponged",
+        "email": "jordanmccann64@outlook.com",
+        "url": "https://github.com/youugotssponged"
+    },
+    "scripts": {
+        "start": ""
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "peerDependencies": {}
+}

@@ -1,0 +1,32 @@
+{
+	// My main workspace plugins for a mix of node/js/typescript and c# based applications
+
+	"recommendations": [
+		"christian-kohler.path-intellisense",
+		"CodeBiscuits.js-ts-biscuits",
+		"CodeBiscuits.css-biscuits",
+		"CodeBiscuits.html-biscuits",
+		"CodeBiscuits.assorted-biscuits",
+		"CodeBiscuits.csharp-biscuits",
+		"dbaeumer.vscode-eslint",
+		"eamodio.gitlens", // git lens 
+		"enkia.tokyo-night", // Theme i use
+		"PKief.material-icon-theme", // Icons i use
+		"ms-dotnettools.csharp",
+		"dsznajder.es7-react-js-snippets",
+		"dzhavat.git-cheatsheet",
+		"esbenp.prettier-vscode",
+		"ms-vscode-remote.remote-ssh",
+		"ms-vscode-remote.remote-ssh-edit",
+		"ms-vscode.js-debug",
+		"ms-vscode.js-debug-companion",
+		"ms-vscode.node-debug",
+		"ms-vscode.node-debug2",
+		"msjsdiag.debugger-for-chrome",
+		"shd101wyy.markdown-preview-enhanced", // Markdown Viewer
+		"xabikos.JavaScriptSnippets",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"ms-dotnettools.csharp",
+		"tomoki1207.pdf", // PDF Viewer 
+	]
+}
